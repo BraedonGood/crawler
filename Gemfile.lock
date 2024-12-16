@@ -33,7 +33,7 @@ GIT
   revision: abff8b07904a5dab956aa5c2aab8673f758e2edc
   branch: feedbin
   specs:
-    http (4.4.1)
+    http (5.1.0)
       addressable (~> 2.3)
       http-cookie (~> 1.0)
       http-form_data (~> 2.2)

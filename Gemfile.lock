@@ -30,7 +30,7 @@ GIT
 
 GIT
   remote: https://github.com/feedbin/http.git
-  revision: 90432b0b03b99a820cb95ff69d0945713210fbc4
+  revision: abff8b07904a5dab956aa5c2aab8673f758e2edc
   branch: feedbin
   specs:
     http (4.4.1)
